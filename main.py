@@ -16,6 +16,7 @@ profile.set_preference("browser.download.dir", DownPath)
 profile.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/octet-stream")
 
 
+# Path to Driver
 s = Service("Driver\geckodriver.exe")
 driver = webdriver.Firefox(firefox_profile=profile,service=s)
 
