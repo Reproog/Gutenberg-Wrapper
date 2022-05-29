@@ -120,6 +120,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+/Driver
+
+
 # mypy
 .mypy_cache/
 .dmypy.json
