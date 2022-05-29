@@ -1,0 +1,677 @@
+1653830653403	geckodriver	INFO	Listening on 127.0.0.1:56201
+1653830656541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56202" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile8bnmx6"
+1653830657237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile8bnmx6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56202/devtools/browser/e5d8ed67-fb75-47bd-9e4b-cd82b719fb8b
+1653830658965	Marionette	INFO	Listening on port 56209
+1653830659258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1653831805551	Marionette	INFO	Stopped listening on port 56209
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile3aTE2W"
+1653830787996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile3aTE2W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56269/devtools/browser/11b2f8d2-a83a-4a4c-87c4-352857f84b8a
+1653830789532	Marionette	INFO	Listening on port 56274
+1653830789739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653830800978	Marionette	INFO	Stopped listening on port 56274
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653830819985	geckodriver	INFO	Listening on 127.0.0.1:56315
+1653830823061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56316" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileBnF7rX"
+1653830823340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileBnF7rX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56316/devtools/browser/72041748-a885-4c9f-9a0f-d26edcae3f01
+1653830824775	Marionette	INFO	Listening on port 56321
+1653830825159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653830830597	Marionette	INFO	Stopped listening on port 56321
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653830868921	geckodriver	INFO	Listening on 127.0.0.1:56391
+1653830872001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56392" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile8ud2Fz"
+1653830872290	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile8ud2Fz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56392/devtools/browser/461b1bfe-0b2a-4a29-b510-3a2b4fc03bb2
+1653830873653	Marionette	INFO	Listening on port 56397
+1653830874094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653830897167	Marionette	INFO	Stopped listening on port 56397
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653830899312	geckodriver	INFO	Listening on 127.0.0.1:56447
+1653830902378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56448" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilersah59"
+1653830902658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilersah59\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56448/devtools/browser/019a68fa-d059-4e56-9b4e-9a837f6a61b1
+1653830903971	Marionette	INFO	Listening on port 56453
+1653830904462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653831060426	Marionette	INFO	Stopped listening on port 56453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653831065416	geckodriver	INFO	Listening on 127.0.0.1:56530
+1653831068483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56531" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileOosjDo"
+1653831068776	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileOosjDo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56531/devtools/browser/6b7be2d2-6c02-47d3-961c-254c0d636316
+1653831070279	Marionette	INFO	Listening on port 56536
+1653831070546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653831074715	Marionette	INFO	Stopped listening on port 56536
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653831127245	geckodriver	INFO	Listening on 127.0.0.1:56590
+1653831130308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56591" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileFtyhVO"
+1653831130600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileFtyhVO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56591/devtools/browser/afc231a2-b4fb-4c47-b040-d67f452fe1f3
+1653831132031	Marionette	INFO	Listening on port 56596
+1653831132401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653831152835	Marionette	INFO	Stopped listening on port 56596
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+al\\Temp\\rust_mozprofile4egmJD"
+1653831150249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile4egmJD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56645/devtools/browser/73ebdccb-bb91-4ab8-ac48-3a55bfd3d6b5
+1653831151835	Marionette	INFO	Listening on port 56650
+1653831152083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.de"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2wSGrAFU2I9l4rVgSoL7oTdOOQiRBWDpfuX3kVoAHAw.js line 2 > eval line 710 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1653831391075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58251" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile4mJcAo"
+1653831391361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile4mJcAo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58251/devtools/browser/1d07930d-68e6-45b4-9920-3936daa807c4
+1653831392727	Marionette	INFO	Listening on port 58257
+1653831393158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653831792015	Marionette	INFO	Stopped listening on port 58257
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+al\\Temp\\rust_mozprofileL9zrHz"
+1653831584853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileL9zrHz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58346/devtools/browser/78abf5d1-6537-476b-890f-5abcb5921253
+1653831586207	Marionette	INFO	Listening on port 58351
+1653831586632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653831802908	Marionette	INFO	Stopped listening on port 58351
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilegBsEIb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58399/devtools/browser/31f2ba18-fc16-481f-a590-c91a516fe3b5
+1653831600862	Marionette	INFO	Listening on port 58404
+1653831601129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.de"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2wSGrAFU2I9l4rVgSoL7oTdOOQiRBWDpfuX3kVoAHAw.js line 2 > eval line 4071 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecatJavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653832168286	Marionette	INFO	Stopped listening on port 58462
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+etworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1653831775429	Marionette	INFO	Stopped listening on port 58404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 27228, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653832016904	geckodriver	INFO	Listening on 127.0.0.1:58772
+1653832019984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58773" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilemHlL86"
+1653832020347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilemHlL86\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58773/devtools/browser/d04c7d55-5ff8-40e8-85b3-5398c84a311f
+1653832021822	Marionette	INFO	Listening on port 58778
+1653832022033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653832095978	Marionette	INFO	Stopped listening on port 58778
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653832149464	geckodriver	INFO	Listening on 127.0.0.1:58871
+1653832152540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58872" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilenEi8Og"
+1653832152825	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilenEi8Og\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58872/devtools/browser/25723dc9-6a2e-4f15-abcf-e21caa8c1919
+1653832154211	Marionette	INFO	Listening on port 58877
+1653832154626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653832170709	Marionette	INFO	Stopped listening on port 58877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653832251408	geckodriver	INFO	Listening on 127.0.0.1:58996
+1653832254482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58997" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileKJL7Zg"
+1653832254785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileKJL7Zg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58997/devtools/browser/f86181a8-cb40-418b-bff5-b300887929c4
+1653832256154	Marionette	INFO	Listening on port 59002
+1653832256561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653832311659	Marionette	INFO	Stopped listening on port 59002
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+or("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileXP6LkK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59051/devtools/browser/ff65bf65-688e-44db-8298-93f4ecf484a4
+1653832303444	Marionette	INFO	Listening on port 59057
+1653832303785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653832356504	Marionette	INFO	Stopped listening on port 59057
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+53832344775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile3bUtiq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59110/devtools/browser/54e21d25-2ee7-40a0-b8ad-7d5751c08a92
+1653832346190	Marionette	INFO	Listening on port 59116
+1653832346544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653832352539	Marionette	INFO	Stopped listening on port 59116
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653832368040	geckodriver	INFO	Listening on 127.0.0.1:59165
+1653832371124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59166" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilepkuN4U"
+1653832371401	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilepkuN4U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59166/devtools/browser/b3232f02-fb8f-4742-aa82-e4cf0e4e86e8
+1653832372760	Marionette	INFO	Listening on port 59171
+1653832373223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653832379812	Marionette	INFO	Stopped listening on port 59171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653832389766	geckodriver	INFO	Listening on 127.0.0.1:59218
+1653832392825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59219" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileHOb0CB"
+1653832393116	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileHOb0CB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59219/devtools/browser/7500e954-19f1-4aa1-8bd6-420e851a89da
+1653832394512	Marionette	INFO	Listening on port 59224
+1653832394939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653832398734	Marionette	INFO	Stopped listening on port 59224
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 27584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653832410675	geckodriver	INFO	Listening on 127.0.0.1:59273
+1653832413742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59274" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileuZ5A5V"
+1653832414015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileuZ5A5V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59274/devtools/browser/b8501a0b-6d36-4d1b-ae3e-1b21d4b7af55
+1653832415341	Marionette	INFO	Listening on port 59279
+1653832415825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653832539682	Marionette	INFO	Stopped listening on port 59279
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6328, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ofile2v0na7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59367/devtools/browser/b6962f3d-80a7-433e-a719-60731836d138
+1653832524040	Marionette	INFO	Listening on port 59372
+1653832524484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653832529855	Marionette	INFO	Stopped listening on port 59372
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653832604107	geckodriver	INFO	Listening on 127.0.0.1:59441
+1653832607175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59442" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileHBDkyu"
+1653832607460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileHBDkyu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59442/devtools/browser/cc2b84c9-11ea-471d-8965-556057d8ce65
+1653832608781	Marionette	INFO	Listening on port 59449
+1653832609264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653832624955	Marionette	INFO	Stopped listening on port 59449
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653832642987	geckodriver	INFO	Listening on 127.0.0.1:59503
+1653832646097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59504" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilevJ7sgE"
+1653832646364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilevJ7sgE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59504/devtools/browser/152e2848-b6c4-4909-9ccf-022909cdc7ad
+1653832647801	Marionette	INFO	Listening on port 59509
+1653832648189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+1653832661118	geckodriver	INFO	Listening on 127.0.0.1:59560
+1653832664191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59561" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilemRMCFd"
+1653832664491	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilemRMCFd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59561/devtools/browser/43ae8942-0950-48ef-8264-695f7b8176fa
+1653832665900	Marionette	INFO	Listening on port 59568
+1653832666243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+1653832686315	geckodriver	INFO	Listening on 127.0.0.1:59621
+1653832689401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59622" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilewiWJgl"
+1653832689739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilewiWJgl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59622/devtools/browser/313e3ce0-0a72-478a-91a1-a041113068f6
+1653832691135	Marionette	INFO	Listening on port 59627
+1653832691489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653832711935	Marionette	INFO	Stopped listening on port 59627
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653832714689	geckodriver	INFO	Listening on 127.0.0.1:59681
+1653832717756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59682" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile3027AH"
+1653832718056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile3027AH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59682/devtools/browser/48a9224f-2f88-412d-8cda-13da7cb2d4b0
+1653832719363	Marionette	INFO	Listening on port 59687
+1653832719836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653832721882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653832727106	Marionette	INFO	Stopped listening on port 59687
+1653832765203	geckodriver	INFO	Listening on 127.0.0.1:59738
+1653832768279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59739" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilegRS54y"
+1653832768543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilegRS54y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59739/devtools/browser/9a4331f9-26df-4b8c-a92b-e0a40efc7885
+1653832769930	Marionette	INFO	Listening on port 59744
+1653832770355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653832774980	Marionette	INFO	Stopped listening on port 59744
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653833161331	geckodriver	INFO	Listening on 127.0.0.1:59949
+1653833164416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59950" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilel8Lkl4"
+1653833164691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilel8Lkl4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59950/devtools/browser/8894b30a-6ad9-4363-8031-f20903f52a41
+1653833166167	Marionette	INFO	Listening on port 59956
+1653833166484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653833173183	Marionette	INFO	Stopped listening on port 59956
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653833378103	geckodriver	INFO	Listening on 127.0.0.1:60047
+1653833381187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60048" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileuG5qYX"
+1653833381457	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileuG5qYX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60048/devtools/browser/003383da-7946-429f-867e-166f7d1abb39
+1653833382710	Marionette	INFO	Listening on port 60053
+1653833382737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653833389468	Marionette	INFO	Stopped listening on port 60053
+1653833846732	geckodriver	INFO	Listening on 127.0.0.1:60188
+1653833849798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60189" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilex1PTbB"
+1653833850064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilex1PTbB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60189/devtools/browser/5ee34550-a5ad-4580-beeb-f70f635cec82
+1653833851454	Marionette	INFO	Listening on port 60194
+1653833851873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653833855188	Marionette	INFO	Stopped listening on port 60194
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653833945870	geckodriver	INFO	Listening on 127.0.0.1:60247
+1653833948946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60248" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileBZ0k0r"
+1653833949236	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileBZ0k0r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60248/devtools/browser/07118caa-1236-4f3d-a101-92cd414c7ef5
+1653833950653	Marionette	INFO	Listening on port 60253
+1653833951046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653833954728	Marionette	INFO	Stopped listening on port 60253
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653834232332	geckodriver	INFO	Listening on 127.0.0.1:60360
+1653834235396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60361" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileMCBtSx"
+1653834235708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileMCBtSx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60361/devtools/browser/626fb9e7-f59c-490e-9957-6f9aed7e6e98
+1653834237191	Marionette	INFO	Listening on port 60366
+1653834237476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653834244179	Marionette	INFO	Stopped listening on port 60366
+1653834244657	geckodriver	INFO	Listening on 127.0.0.1:60409
+1653834247746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60410" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileYVuu5y"
+1653834248010	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileYVuu5y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60410/devtools/browser/6e48fe2b-dddf-41e0-977a-6ddcbf9263ab
+1653834249266	Marionette	INFO	Listening on port 60415
+1653834249296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653834256032	Marionette	INFO	Stopped listening on port 60415
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653834256635	geckodriver	INFO	Listening on 127.0.0.1:60461
+1653834259717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60462" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofiletKNAIA"
+1653834260024	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofiletKNAIA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60462/devtools/browser/a205b6ce-c4a8-42dd-98b6-fc5396b4dd9f
+1653834261341	Marionette	INFO	Listening on port 60467
+1653834261793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653834578551	Marionette	INFO	Stopped listening on port 60467
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+al\\Temp\\rust_mozprofileLi0Lqx"
+1653834305641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileLi0Lqx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60521/devtools/browser/99ce9640-134e-4e78-b182-74637969db5b
+1653834306942	Marionette	INFO	Listening on port 60527
+1653834307439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653834314145	Marionette	INFO	Stopped listening on port 60527
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653834314627	geckodriver	INFO	Listening on 127.0.0.1:60569
+1653834317697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60570" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilePzaMZD"
+1653834317964	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilePzaMZD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60570/devtools/browser/b26893c6-f7c2-49a6-98a8-8937d833fc42
+1653834319265	Marionette	INFO	Listening on port 60577
+1653834319769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653834579399	Marionette	INFO	Stopped listening on port 60577
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+al\\Temp\\rust_mozprofiled1QjfW"
+1653834341565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofiled1QjfW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60621/devtools/browser/036d50bb-751c-4f58-8731-4cce12f2544f
+1653834342894	Marionette	INFO	Listening on port 60626
+1653834343349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653834354098	Marionette	INFO	Stopped listening on port 60626
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653834354583	geckodriver	INFO	Listening on 127.0.0.1:60669
+1653834357640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60670" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile6pVEKa"
+1653834358010	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile6pVEKa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60670/devtools/browser/e727d2fb-8df0-4e3d-be13-3378e56f3a53
+1653834359389	Marionette	INFO	Listening on port 60676
+1653834359724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653834370440	Marionette	INFO	Stopped listening on port 60676
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653834371025	geckodriver	INFO	Listening on 127.0.0.1:60717
+1653834374084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60718" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilet7KxCi"
+1653834374353	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilet7KxCi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60718/devtools/browser/975a068e-1176-45b8-a907-12da75a20e42
+1653834375689	Marionette	INFO	Listening on port 60723
+1653834376152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653834386890	Marionette	INFO	Stopped listening on port 60723
+1653834387365	geckodriver	INFO	Listening on 127.0.0.1:60764
+1653834390426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60765" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileWrEBsf"
+1653834390701	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileWrEBsf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60765/devtools/browser/8b00dc57-75ae-4d16-8e59-713331c03ee2
+1653834392058	Marionette	INFO	Listening on port 60770
+1653834392505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653834403245	Marionette	INFO	Stopped listening on port 60770
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653834403716	geckodriver	INFO	Listening on 127.0.0.1:60811
+1653834406803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60812" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile8wqxQX"
+1653834407083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofile8wqxQX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60812/devtools/browser/94b5244f-aec0-4182-876b-7447797699d2
+1653834408336	Marionette	INFO	Listening on port 60817
+1653834408372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653834419124	Marionette	INFO	Stopped listening on port 60817
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653834858711	geckodriver	INFO	Listening on 127.0.0.1:60966
+1653834861784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60967" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileUVA74v"
+1653834862051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileUVA74v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60967/devtools/browser/d77b9775-c0f2-492f-a842-6392733fb0e4
+1653834863450	Marionette	INFO	Listening on port 60972
+1653834863852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653834867175	Marionette	INFO	Stopped listening on port 60972
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 27268, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653835220553	geckodriver	INFO	Listening on 127.0.0.1:61095
+1653835223590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61096" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileSbaMBD"
+1653835223925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileSbaMBD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61096/devtools/browser/6906fb22-015f-4d19-a082-960642b3fddc
+1653835225632	Marionette	INFO	Listening on port 61101
+1653835225677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653835231696	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653835236905	Marionette	INFO	Stopped listening on port 61101
+1653835237504	geckodriver	INFO	Listening on 127.0.0.1:61156
+1653835240573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61157" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilemdBs7h"
+1653835240878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilemdBs7h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61157/devtools/browser/9812390b-6d19-4398-8f16-3982ed1c03eb
+1653835242456	Marionette	INFO	Listening on port 61163
+1653835242652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653835248701	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653835253925	Marionette	INFO	Stopped listening on port 61163
+1653835254523	geckodriver	INFO	Listening on 127.0.0.1:61204
+1653835257593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61205" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileNc8LXa"
+1653835257912	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileNc8LXa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61205/devtools/browser/e98d1a35-56a0-42f6-a193-75740bff1c9e
+1653835259490	Marionette	INFO	Listening on port 61210
+1653835259683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653835265791	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653835271013	Marionette	INFO	Stopped listening on port 61210
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653835271607	geckodriver	INFO	Listening on 127.0.0.1:61251
+1653835274672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61252" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilea8uio1"
+1653835274953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilea8uio1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61252/devtools/browser/7bed1d46-f86e-4f31-a38e-be89fad08fd2
+1653835276260	Marionette	INFO	Listening on port 61257
+1653835276745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653835282922	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653835288140	Marionette	INFO	Stopped listening on port 61257
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653835288756	geckodriver	INFO	Listening on 127.0.0.1:61298
+1653835291834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61299" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilenWAWuc"
+1653835292115	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilenWAWuc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61299/devtools/browser/c4dab53a-f01a-4d6d-bcad-7890172c1bd1
+1653835293448	Marionette	INFO	Listening on port 61304
+1653835293906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653835299946	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653835305177	Marionette	INFO	Stopped listening on port 61304
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653835361136	geckodriver	INFO	Listening on 127.0.0.1:61348
+1653835364223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61349" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileSFdXsn"
+1653835364594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileSFdXsn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61349/devtools/browser/14fc6841-5a92-471a-9a4c-37bea9fed58f
+1653835366039	Marionette	INFO	Listening on port 61354
+1653835366298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653835372335	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653835377554	Marionette	INFO	Stopped listening on port 61354
+1653835378152	geckodriver	INFO	Listening on 127.0.0.1:61397
+1653835381227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61398" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileSmoGZW"
+1653835381508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileSmoGZW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61398/devtools/browser/621839b9-0a87-4b36-a692-766307959a74
+1653835382959	Marionette	INFO	Listening on port 61403
+1653835383309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653835389321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653835394543	Marionette	INFO	Stopped listening on port 61403
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653835395133	geckodriver	INFO	Listening on 127.0.0.1:61444
+1653835398212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61445" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileqLEQNe"
+1653835398505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileqLEQNe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61445/devtools/browser/e06f7d04-33f9-4061-9f2b-32371c43ec22
+1653835399845	Marionette	INFO	Listening on port 61450
+1653835400304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653835406319	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653835411529	Marionette	INFO	Stopped listening on port 61450
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653835412114	geckodriver	INFO	Listening on 127.0.0.1:61491
+1653835415188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61492" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilezENSxs"
+1653835415474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofilezENSxs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61492/devtools/browser/27be1860-00d0-412b-a22e-554b9401c31e
+1653835416766	Marionette	INFO	Listening on port 61497
+1653835417258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653835423386	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653835428601	Marionette	INFO	Stopped listening on port 61497
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653835429207	geckodriver	INFO	Listening on 127.0.0.1:61538
+1653835432275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61539" "-no-remote" "-profile" "C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileUg1osr"
+1653835432558	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CHRIST~1\\AppData\\Local\\Temp\\rust_mozprofileUg1osr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61539/devtools/browser/7d100d09-cb05-4eda-bc3e-939735e35d50
+1653835433865	Marionette	INFO	Listening on port 61544
+1653835434336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: focusMe is not defined
+JavaScript error: http://www.epub2go.eu/, line 1: ReferenceError: blurMe is not defined
+1653835440356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1653835445566	Marionette	INFO	Stopped listening on port 61544
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
