@@ -1,1 +1,1 @@
-# The Downloads are saving here
+# The Books are saved here (as Epub)
